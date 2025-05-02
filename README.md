@@ -1,18 +1,18 @@
 ---
 
-# 🚀 BroCode Python Learning Repository
+# BroCode Python Learning Repository
 
 Welcome to my **BroCode Python Learning Repository**! This repository documents my journey through the [BroCode Python course](https://www.youtube.com/watch?v=XKHEtdqhLK8), where I explore and practice Python programming concepts. It serves as both a personal reference and a resource for others who are also learning Python.
 
 ---
 
-## 🎯 Objective
+## Objective
 
 The primary goal of this repository is to track my progress and growth in Python programming. By organizing my code, exercises, and projects, I aim to create a structured archive that reflects my understanding of Python concepts over time. This repository also highlights challenges I've faced and how I overcame them, making it a transparent record of my learning process.
 
 ---
 
-## 📂 Repository Structure
+## Repository Structure
 
 The repository is organized into folders and files that correspond to specific topics or projects covered in the course. Here's a brief overview of what you'll find:
 
@@ -24,7 +24,7 @@ Each file includes comments and documentation to explain the purpose and functio
 
 ---
 
-## ✨ Why This Repository?
+## Why This Repository?
 
 1. **Personal Growth**: By revisiting my code, I can identify areas for improvement and reinforce my understanding of Python.
 2. **Transparency**: This repository provides an honest look at my learning journey, including both successes and struggles.
@@ -32,7 +32,7 @@ Each file includes comments and documentation to explain the purpose and functio
 
 ---
 
-## 🛠️ Tools and Resources
+## Tools and Resources
 
 - **Language**: Python 3.x
 - **Editor**: [Visual Studio Code](https://code.visualstudio.com/) (or any editor of your choice)
@@ -40,13 +40,13 @@ Each file includes comments and documentation to explain the purpose and functio
 
 ---
 
-## 🤝 How You Can Contribute
+## How You Can Contribute
 
 While this repository is primarily for my personal learning, I welcome feedback, suggestions, or corrections. If you find something that could be improved or have ideas for additional projects, feel free to open an issue or submit a pull request.
 
 ---
 
-## 📈 Future Plans
+## Future Plans
 
 As I continue progressing through the course, I plan to:
 - Add more advanced projects and scripts.
@@ -55,7 +55,7 @@ As I continue progressing through the course, I plan to:
 
 ---
 
-## 🌟 Acknowledgments
+## Acknowledgments
 
 A huge thank you to [BroCode](https://www.youtube.com/@BroCodez) for creating such an engaging and comprehensive Python course. This repository wouldn't exist without his guidance and teaching.
 
