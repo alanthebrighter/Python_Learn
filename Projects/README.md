@@ -106,5 +106,42 @@ project/
 
 ---
 
+## **Project 5: Mini-Grep (Text Search Tool)**
+
+**Estimated time**: 1 day
+**Goal**: Build a simple CLI tool that searches for lines matching a string or regex inside `.txt` or `.log` files.
+
+### Topics to practice:
+
+* File reading (`open()`, with `try/except`)
+* Line-by-line processing
+* Regex with the `re` module (`re.search`, `re.match`)
+* Basic use of `os` or `pathlib` to find files
+* CLI arguments with `argparse`
+* Optional: colored output with `colorama` or ANSI escape codes
+
+---
+
+### Features (start small, then expand):
+
+* Search for a keyword in a single file
+* Support for case-insensitive search (`-i`)
+* Optional: support basic regex
+* Bonus: recursively search files in a folder (like `grep -r`)
+
+---
+
+### 🔧 Suggested structure:
+
+```
+project/
+├── main.py           # CLI entry point
+├── grep.py           # Core search logic
+├── utils.py          # Optional helpers (e.g., highlighting matches)
+└── tests/
+    └── test_grep.py
+```
+
+---
 
 
